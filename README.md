@@ -2,7 +2,7 @@
 - 👀 I’m interested in design.
 - 🌱 I’m currently learning INM
 - 💞️ I’m looking to collaborate on web design
-- 📫 How to reach me tati.design.studio.toronto@gmail.com
+- 📫 How to reach me tati.supermagic.design@gmail.com
 
 <!---
 Yannastudent/Yannastudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
